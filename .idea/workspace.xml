@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="31f6bf90-38a3-4004-9b17-7472db253510" name="Changes" comment="commit test">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv/phylomoduleexample.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/phylomoduleexample.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,12 +29,12 @@
     &quot;assignee&quot;: &quot;Dariusz8&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Dariusz8/bioinfotest.git",
-    "accountId": "dcfff447-c83a-4dc7-934f-c1e9c5113bed"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Dariusz8/bioinfotest.git&quot;,
+    &quot;accountId&quot;: &quot;dcfff447-c83a-4dc7-934f-c1e9c5113bed&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -48,9 +49,14 @@
     "Python.app.executor": "Run",
     "Python.biopythontest.executor": "Run",
     "Python.cultivated_example.executor": "Run",
+    "Python.databases_intro.executor": "Run",
     "Python.pandastest.executor": "Run",
+    "Python.protein_seq_structure_data.executor": "Run",
     "Python.scipi.executor": "Run",
+    "Python.sequence_align.executor": "Run",
     "Python.sklearn.executor": "Run",
+    "Python.sql_intro.executor": "Run",
+    "Python.trans_trans_intro.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -106,7 +112,15 @@
       <option name="project" value="LOCAL" />
       <updated>1735785519882</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="commit test">
+      <option name="closed" value="true" />
+      <created>1735786888729</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1735786888729</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

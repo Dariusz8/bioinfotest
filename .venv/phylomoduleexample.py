@@ -1,7 +1,8 @@
 #ending chapter 1 bioinfo practical approach
 #Dariusz Czeczuk
 #Start date: 1-1-2025
-#Last mod: 1-1-205
+#Last mod: 1-1-2025
+
 from copyreg import constructor
 
 from scipy.spatial import distance_matrix
