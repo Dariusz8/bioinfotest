@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="31f6bf90-38a3-4004-9b17-7472db253510" name="Changes" comment="chapter 3">
+    <list default="true" id="31f6bf90-38a3-4004-9b17-7472db253510" name="Changes" comment="chapter 4">
       <change afterPath="$PROJECT_DIR$/.venv/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.venv/Lib/site-packages/Bio/Affy/CelFile.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.venv/Lib/site-packages/Bio/Affy/__init__.py" afterDir="false" />
@@ -9411,6 +9411,7 @@
       <change afterPath="$PROJECT_DIR$/.venv/Scripts/wheel3.11.exe" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.venv/Scripts/wheel3.exe" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.venv/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/bamfile_snp_intro.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.venv/blast_intro.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.venv/data/NC_000001.11[161222091..161223827](-).fa" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.venv/data/NC_060925.1[160359547..160361277](-).fa" afterDir="false" />
@@ -9419,8 +9420,13 @@
       <change afterPath="$PROJECT_DIR$/.venv/data/gene.fna" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.venv/data/refptcompare/NP_001020366.1.fa" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.venv/data/refptcompare/NP_001257.4.fa" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/gccontentanalysis_intro.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/godatabase_intro.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/integrativegenomics_intro.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.venv/phylanalysis_intro.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/seaborn_heatmap_intro.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.venv/share/man/man1/ttx.1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/wholegenome_analysis_intro.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -9470,6 +9476,7 @@
     "Python.entrez_dynamic_intro.executor": "Run",
     "Python.entrez_ncbi_intro.executor": "Run",
     "Python.global_alignment_intro.executor": "Run",
+    "Python.godatabase_intro.executor": "Run",
     "Python.motifs_intro.executor": "Run",
     "Python.pairwisealignment_intro.executor": "Run",
     "Python.pandastest.executor": "Run",
@@ -9585,7 +9592,8 @@
     <MESSAGE value="more intros - chapter 2" />
     <MESSAGE value="nearly done - chapter 2" />
     <MESSAGE value="chapter 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="chapter 3" />
+    <MESSAGE value="chapter 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="chapter 4" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
