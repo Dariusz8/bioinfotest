@@ -1,0 +1,88 @@
+ID   AF059212; SV 1; linear; genomic DNA; STD; HUM; 1406 BP.
+XX
+AC   AF059212;
+XX
+DT   21-DEC-1998 (Rel. 58, Created)
+DT   30-JUN-1999 (Rel. 60, Last updated, Version 3)
+XX
+DE   Homo sapiens cholesterol 25-hydroxylase gene, complete cds.
+XX
+KW   .
+XX
+OS   Homo sapiens (human)
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+XX
+RN   [1]
+RP   1-1406
+RX   DOI; 10.1074/jbc.273.51.34316.
+RX   PUBMED; 9852097.
+RA   Lund E.G., Kerr T.A., Sakai J., Li W.P., Russell D.W.;
+RT   "cDNA cloning of mouse and human cholesterol 25-hydroxylases, polytopic
+RT   membrane proteins that synthesize a potent oxysterol regulator of lipid
+RT   metabolism";
+RL   J Biol Chem 273(51):34316-34327(1998).
+XX
+RN   [2]
+RP   1-1406
+RA   Kerr T.A., Lund E.G., Russell D.W.;
+RT   ;
+RL   Submitted (10-APR-1998) to the INSDC.
+RL   Molecular Genetics, University of Texas Southwestern Medical Center at
+RL   Dallas, 5323 Harry Hines Blvd., Dallas, TX 75235, USA
+XX
+DR   MD5; 4486516ea48e879052da343e12e176d7.
+DR   Ensembl-Gn; ENSG00000138135; homo_sapiens.
+DR   Ensembl-Tr; ENST00000371852; homo_sapiens.
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..1406
+FT                   /organism="Homo sapiens"
+FT                   /chromosome="10"
+FT                   /map="10q23.3"
+FT                   /mol_type="genomic DNA"
+FT                   /db_xref="taxon:9606"
+FT   mRNA            <11..>829
+FT                   /product="cholesterol 25-hydroxylase"
+FT   CDS             11..829
+FT                   /codon_start=1
+FT                   /product="cholesterol 25-hydroxylase"
+FT                   /db_xref="GOA:O95992"
+FT                   /db_xref="HGNC:HGNC:1907"
+FT                   /db_xref="InterPro:IPR006694"
+FT                   /db_xref="UniProtKB/Swiss-Prot:O95992"
+FT                   /protein_id="AAC97481.1"
+FT                   /translation="MSCHNCSDPQVLCSSGQLFLQPLWDHLRSWEALLQSPFFPVIFSI
+FT                   TTYVGFCLPFVVLDILCSWVPALRRYKIHPDFSPSAQQLLPCLGQTLYQHVMFVFPVTL
+FT                   LHWARSPALLPHEAPELLLLLHHILFCLLLFDMEFFVWHLLHHKVPWLYRTFHKVHHQN
+FT                   SSSFALATQYMSVWELFSLGFFDMMNVTLLGCHPLTTLTFHVVNIWLSVEDHSGYNFPW
+FT                   STHRLVPFGWYGGVVHHDLHHSHFNCNFAPYFTHWDKILGTLRTASVPAR"
+XX
+SQ   Sequence 1406 BP; 314 A; 386 C; 302 G; 404 T; 0 other;
+     cagcctcgca atgagctgcc acaactgctc cgacccccag gtcctttgca gctccgggca        60
+     gctgttcctg cagcccctct gggaccacct gaggagctgg gaggccctcc tacagtcgcc       120
+     cttcttcccg gtcatcttct ccatcaccac atacgtgggc ttttgcctgc ccttcgtggt       180
+     cctggatatc ctgtgctcct gggtgcccgc cctgcggcgc tacaagatcc accctgactt       240
+     ctcgccatcc gcgcagcagc tgctaccttg cctggggcag accctctacc agcatgtgat       300
+     gtttgtgttc cccgtgacgc tgctgcattg ggcccgcagc ccggccctcc tgccccacga       360
+     agctcccgag ctgctcctgc tgctgcacca catcctgttc tgcctgctac tcttcgacat       420
+     ggagttcttc gtgtggcacc tgctgcacca caaggtgccc tggctgtacc gcaccttcca       480
+     caaggtgcac caccagaact cgtcctcgtt cgcgctggca acgcagtata tgagcgtctg       540
+     ggaactgttt tctttgggct tcttcgacat gatgaacgtc acactgctcg ggtgccaccc       600
+     gctcaccacc ctgaccttcc acgtggtcaa catctggctt tccgtggagg accactccgg       660
+     ctacaacttc ccttggtcca ctcacagact ggtgcccttc gggtggtacg ggggtgtggt       720
+     gcaccacgac ctgcatcact ctcactttaa ctgcaacttc gctccgtact ttacacactg       780
+     ggacaaaata ctgggaacgc tgcggactgc atctgtccca gcgcggtgat gtggctgcgg       840
+     tgggtgcccc taagactcgg gactgctgtg cctttcacac ttgaatgaag agaaacacct       900
+     gagctatata tttttttaaa gcaactaact tattgcttta tgtttatcta tgaaaaccat       960
+     agataaaatc tgatgcattt ttgtaatctg acaaagtaat ttacatactg tttgtgtatc      1020
+     aatacaattt tgtgttcttg gtattcttag tctagctcac ctcaatagcc ttgaatcctg      1080
+     catatgaatt agacattcat cactggcata tttagaatat ctctaaaagg acttgtttgt      1140
+     agaataagga attttctatg tttcaaagtg ttctaaaacc tggctaaaag aatgtatttt      1200
+     tgtggatggt gttgacttct gactctaaaa gcaatcaaac atgtttctgc tggacagtga      1260
+     ccaagaatta tagtaccttc ttatattttt ttatagaact gtatatttat tttgaaagaa      1320
+     atgttattcg tgctttaaaa aggaaaaaaa accatgaatc aaataagtat tgacttccgt      1380
+     ttcactggta ttttgactga taaaaa                                           1406
+//
