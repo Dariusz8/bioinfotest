@@ -4,7 +4,7 @@
 #Last mod: 1-6-2025
 
 #pymol script to visualize predicted protein structure
-from pymol import cmd
+from pymol import cmd.\.venv\Scripts\activate
 
 #load the predicted model
 cmd.load('predicted_model.pdb')
